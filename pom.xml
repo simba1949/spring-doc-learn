@@ -12,6 +12,7 @@
     <modules>
         <module>spring-doc-quick-start</module>
         <module>spring-doc-config</module>
+        <module>spring-doc-interface-config</module>
     </modules>
 
     <properties>
