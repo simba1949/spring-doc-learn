@@ -1,4 +1,4 @@
-package vip.openpark.domain.request;
+package vip.openpark.example.domain.request;
 
 import lombok.Getter;
 import lombok.Setter;

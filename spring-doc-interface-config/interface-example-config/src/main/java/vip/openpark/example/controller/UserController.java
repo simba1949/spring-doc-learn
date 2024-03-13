@@ -1,11 +1,11 @@
-package vip.openpark.controller;
+package vip.openpark.example.controller;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import vip.openpark.domain.request.UserInsertRequest;
-import vip.openpark.domain.request.UserUpdateRequest;
-import vip.openpark.domain.response.UserResponse;
+import vip.openpark.example.domain.request.UserInsertRequest;
+import vip.openpark.example.domain.request.UserUpdateRequest;
+import vip.openpark.example.domain.response.UserResponse;
 
 import java.util.List;
 
